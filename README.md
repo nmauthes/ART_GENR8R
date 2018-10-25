@@ -10,4 +10,4 @@ Written in my free time using [Processing](https://processing.org/) to generate 
 
 ![Raspberry Pi](rasbpi.JPG)
 
-Because the original project made use of lambda functions and Processing uses a version of Java that doesn't support them, I overcame this by using a Strategy pattern where each function component has its own class implementing a common interface so that they can be used interchangeably and composited. Pretty clever, right? : )
+Because the original project made use of lambda functions and Processing uses a version of Java that doesn't support them, I overcame this by using a Strategy pattern where each function component has its own class implementing a common Operation interface. This means they can be used interchangeably as well as composited. Pretty clever, right? : )
