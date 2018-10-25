@@ -1,6 +1,6 @@
 # ART_GENR8R
 
-My Java-based translation of this Python project: https://jeremykun.com/2012/01/01/random-psychedelic-art/
+My Java-based translation/modification of this Python project: https://jeremykun.com/2012/01/01/random-psychedelic-art/
 
 ![](examples/20172901_125548-0800.png)
 
