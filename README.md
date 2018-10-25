@@ -10,4 +10,4 @@ Written in my free time using [Processing](https://processing.org/) to generate 
 
 ![Raspberry Pi](rasbpi.JPG)
 
-Because the original project made use of lambda functions and Processing uses a version of Java that doesn't support them, I overcame this by giving each function component it's own class implementing a common Operation interface. Pretty clever, right? :)
+Because the original project made use of lambda functions and Processing uses a version of Java that doesn't support them, I overcame this by giving each function component it's own class implementing a common Operation interface. Pretty clever, right? : )
