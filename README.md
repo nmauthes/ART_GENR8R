@@ -2,7 +2,7 @@
 
 My Java-based translation/modification of this Python project: https://jeremykun.com/2012/01/01/random-psychedelic-art/
 
-Below is an example image generated using my implementation.
+Here's an example image generated using my version:
 
 ![Example](examples/20172901_125548-0800.png)
 
